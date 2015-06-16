@@ -33,7 +33,8 @@ Utilities: (Use inside project files)
 * ti-acs-push [https://github.com/stereoket/ti-acs-push]()
 * RESTe [https://github.com/jasonkneen/RESTe]()
 * Titanium Transmission [https://github.com/b-alidra/titanium-transmission]()
-
+* Google-Auth-for-Titanium [https://github.com/ejci/Google-Auth-for-Titanium]()
+* liferay-android-beacons [https://github.com/jamesfalkner/liferay-android-beacons]()
 
 Tools: (Use from CLI)
 * tss-formatter [https://github.com/k0sukey/tss-formatter]()
@@ -44,41 +45,17 @@ Tools: (Use from CLI)
 * TiCalabash [https://github.com/appersonlabs/TiCalabash]()
 * STSS [https://github.com/RonaldTreur/STSS]()
 * Ti18nXmlCsv [https://github.com/CaffeinaLab/Ti18nXmlCsv]()
-
+* benCoding.AlarmManager [https://github.com/benbahrenburg/benCoding.AlarmManager]()
+* TiAdobeCreativeSDK [https://github.com/kosso/TiAdobeCreativeSDK]()
+* TiEventKit [https://github.com/Nyvra/TiEventKit]()
+* ti-adp [https://github.com/jeffbonnes/ti-adp]()
 
 Data Storage:
 * ts.parsebone [https://github.com/TheSmiths-Widgets/ts.parsebone]()
 * joli.js [https://github.com/xavierlacot/joli.js]()
-
+* jssql [https://github.com/ricardoalcocer/jssql]()
 
 Examples:
 * Instagram-For-iPad [https://github.com/raulriera/Instagram-For-iPad]()
 * tiConnectSampleApp [https://github.com/aaronksaunders/tiConnectSampleApp]()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-* ti-adp [https://github.com/jeffbonnes/ti-adp]()
-
-
-* liferay-android-beacons [https://github.com/jamesfalkner/liferay-android-beacons]()
-* Google-Auth-for-Titanium [https://github.com/ejci/Google-Auth-for-Titanium]()
-
-
-
-* benCoding.AlarmManager [https://github.com/benbahrenburg/benCoding.AlarmManager]()
-* TiAdobeCreativeSDK [https://github.com/kosso/TiAdobeCreativeSDK]()
-* TiEventKit [https://github.com/Nyvra/TiEventKit]()
-
-
-* jssql [https://github.com/ricardoalcocer/jssql]()
