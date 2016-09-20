@@ -61,4 +61,26 @@ I expect to update it pretty frequently but there is so much coolness out there 
 * [tiConnectSampleApp](https://github.com/aaronksaunders/tiConnectSampleApp)
 * 
 
+**Non Titanium Mobile Tools**
+* [FastLane] (https://fastlane.tools/)
+*     [deliver] (https://github.com/fastlane/fastlane/tree/master/deliver#readme) Upload screenshots, metadata and your app to the App Store using a single command.
+*     [snapshot] (https://github.com/fastlane/fastlane/tree/master/snapshot#readme) Automate taking localized screenshots of your iOS app on every device
+*     [frameit] (https://github.com/fastlane/fastlane/tree/master/spaceship)  
+*     [pem] (https://github.com/fastlane/fastlane/tree/master/pem#readme) Automatically generate and renew your push notifcation profiles.
+*     [sigh] (https://github.com/fastlane/fastlane/tree/master/sigh#readme) Create, renew, download and repair provisioning profiles (with one command). It supports App Store, Ad Hoc, Development and Enterprise profiles and supports nice features, like auto-adding all test devices.
+*     [produce] (https://github.com/fastlane/fastlane/tree/master/produce) Create new iOS apps on iTunes Connect and Dev Portal using your command line
+*     [cert] (https://github.com/fastlane/fastlane/tree/master/cert) Automatically create and maintain iOS code signing certificates.
+*     [spaceship] (https://github.com/fastlane/fastlane/tree/master/spaceship) Exposes both the Apple Developer Center and the iTunes Connect API. This fast and powerful API powers parts of fastlane, and can be leveraged for more advanced fastlane features. Scripting your Developer Center workflow has never been easier!
+*     [pilot]  (https://github.com/fastlane/fastlane/tree/master/pilot) The best way to manage your TestFlight testers and builds from your terminal
+*     [boarding]  (https://github.com/fastlane/boarding) Instantly create a simple signup page for TestFlight beta testers.
+*     [gym] (https://github.com/fastlane/fastlane/tree/master/gym) (gym builds and packages iOS and macOS apps for you. It takes care of all the heavy lifting and makes it super easy to generate a signed ipa or app file)
+*     [scan] (https://github.com/fastlane/fastlane/tree/master/scan) The easiest way to run tests of your iOS and Mac app
+
+
+
+
+
+
+
+
 
